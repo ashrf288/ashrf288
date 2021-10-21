@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/logo.svg" width="300" height="100">
-</p>	
+</p>	 -->
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
 # Hello! 👋️
@@ -32,7 +32,7 @@ Also, feel free to check what I've been rambling about on <a href="https://fanti
 <li>Open Sourcerer</li>
 <li>Bullet List Enthusiast</li>
 </ul>
-
+<!-- 
 ## I am good at a few things:
 
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/tags.svg" width="auto" height="auto">
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/tags.svg" width="auto" height="auto"> -->
