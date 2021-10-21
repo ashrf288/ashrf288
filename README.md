@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Portfolio
 
 # Hello! 👋️
 ![ashrf github stats](https://github-readme-stats.vercel.app/api?username=ashrf288&show_icons=true&theme=dracula&hide=stars,issues)
