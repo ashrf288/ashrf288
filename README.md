@@ -17,18 +17,18 @@ Here are some ideas to get you started:
 
 > *pending...*
 
-![Leo's github stats](https://github-readme-stats.vercel.app/api?username=ashrf288&show_icons=true&theme=dracula&hide=stars,issues)
+![ashrf github stats](https://github-readme-stats.vercel.app/api?username=ashrf288&show_icons=true&theme=dracula&hide=stars,issues)
 
 <details>
   <summary>Click👆</summary>
-  <pre>
+<!--   <pre>
   🤷‍♂️
   </pre>
 </details>
 
 ![build](https://github.com/ashrf288/mopig/workflows/build/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ashrf288/ashrf288)
-![pv](https://pageview.vercel.app/?github_user=ashrf288)
+![pv](https://pageview.vercel.app/?github_user=ashrf288) -->
 
 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
