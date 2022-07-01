@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 # Hello! 👋️
 
-<h1 align="center">Hi There 👋 Welcome To My GitHub ❤️ Morad Alkhatib ❤️</h1>
 
 ![ashrf github stats](https://github-readme-stats.vercel.app/api?username=ashrf288&show_icons=true&theme=dracula&hide=stars,issues)
 
