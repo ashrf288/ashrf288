@@ -30,6 +30,9 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrf288&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ![](https://komarev.com/ghpvc/?username=ashrf288&color=0ca4a5)
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
