@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://raw.githubusercontent.com/ashrf288/ashrf288/master/header.svg"/>
+<img src="https://raw.githubusercontent.com/<username>/<username>/master/header.svg"/>
 # Hello! 👋️
 
 <h1 align="center">Hi There 👋 Welcome To My GitHub ❤️ Morad Alkhatib ❤️</h1>
