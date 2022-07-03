@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center" style="color:red;">
+<h2 align="center">
   <a href="https://git.io/typing-svg%22%3E
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Ashrf,+25years!+👋;SoftwareDeveloper;**Love-%3ELearning,Teaching.;Hobby--%3ESports;Nice+to+meet+you!&center=true&size=30%22%3E
   </a>
