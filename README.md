@@ -1,4 +1,4 @@
-
+# Hello! 👋️
 <!--
 **ashrf288/ashrf288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,11 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-
-
 <h2 align="center" style="color:red;">
   <a href="https://git.io/typing-svg%22%3E
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Ashrf,+25years!+👋;SoftwareDeveloper;**Love-%3ELearning,Teaching.;Hobby--%3ESports;Nice+to+meet+you!&center=true&size=30%22%3E
