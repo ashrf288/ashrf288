@@ -13,13 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">
-  <a href="https://git.io/typing-svg%22%3E
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Ashrf,+25years!+👋;SoftwareDeveloper;**Love-%3ELearning,Teaching.;Hobby--%3ESports;Nice+to+meet+you!&center=true&size=30%22%3E
+
+<h2 align="center" style="color:red;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Morad,+25years!+👋;TeacherAssistant..Of;SoftwareDevelopment;**Love->Learning,Teaching.;Hobby-->Sports;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h2>
-
-
 
 ![ashrf github stats](https://github-readme-stats.vercel.app/api?username=ashrf288&show_icons=true&theme=dracula&hide=stars,issues)
 
