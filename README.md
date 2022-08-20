@@ -14,13 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<h2 align="center" style="color:red;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=👋;SoftwareDeveloper;Love->Learning,Teaching.;Hobby-->Gaming;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h2>
-
-
 -->
 
 
