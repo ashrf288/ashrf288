@@ -36,6 +36,13 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrf288)](https://github.com/anuraghazra/github-readme-stats)
 
 
+## **Code With Cobby 🧘🏽‍♂️❤**
+![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=ashrf288&theme=dracula&hide_border=true)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashrf288&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashrf288&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashrf288&theme=github_dark)
+
+
 ![](https://komarev.com/ghpvc/?username=ashrf288&color=0ca4a5)
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
